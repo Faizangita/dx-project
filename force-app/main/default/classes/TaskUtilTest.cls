@@ -3,7 +3,7 @@ private class TaskUtilTest {
     @isTest static void testTaskPriority() {
         String pri = TaskUtil.getTaskPriority('NY');
         System.assertEquals('Normal', pri);
-        //This is the first line changes of test class. It has been completed.
+        //This is the first line changes of test class. It has been completed....
     }
     @isTest static void testTaskHighPriority() {
         String pri = TaskUtil.getTaskPriority('CA');

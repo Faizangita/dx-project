@@ -8,6 +8,7 @@ public class blueworld {
         }
         //This is the third line changes.It has been progress.
         //This is the fourth line changes which need to be committed
+        //This line should not be committed.
         String taskPriority;
         if (leadState == 'CA') {
              taskPriority = 'High'; 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>faizan.a@cloudfulcrum.com</contactEmail>
+    <label>Sandbox Connected App</label>
+    <oauthConfig>
+        <callbackUrl>https://cloudfulcrum73-dev-ed--c.develop.vf.force.com/apex/AuthCodeCallbackSandboxVf</callbackUrl>
+        <consumerKey>3MVG9bZIBBVRES4H_fsGt7ejTEkUPMGlvELMnfHpLDIdmfpW_JA.nlw6usQiIhR29AngJu1cIR7gmBjAbSm7N</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>true</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>true</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>false</isPkceRequired>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <scopes>Full</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>BYPASS</ipRelaxation>
+        <refreshTokenPolicy>zero</refreshTokenPolicy>
+    </oauthPolicy>
+</ConnectedApp>

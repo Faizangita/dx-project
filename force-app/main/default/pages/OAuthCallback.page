@@ -1,0 +1,5 @@
+<!-- UserProfilePage.page -->
+<apex:page controller="UserProfileController">
+    <h1>Welcome, {!userName}</h1>
+    <p>Your profile: {!userProfile}</p>
+</apex:page>

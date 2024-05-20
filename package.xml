@@ -49,6 +49,7 @@
         <members>Account.Sic</members>
         <members>Account.SicDesc</members>
         <members>Account.Site</members>
+        <members>Account.Subaru__c</members>
         <members>Account.TickerSymbol</members>
         <members>Account.Tier</members>
         <members>Account.Type</members>

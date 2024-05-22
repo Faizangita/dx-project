@@ -55,6 +55,7 @@
         <members>Account.Type</members>
         <members>Account.Website</members>
         <members>Account.subjects__c</members>
+        <members>Contact.License__c</members>
         <members>Testing__c.Email__c</members>
         <name>CustomField</name>
     </types>

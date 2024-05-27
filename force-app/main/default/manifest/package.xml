@@ -8,12 +8,16 @@
     <types>
         <members>Account.Enterprise</members>
         <members>Account.Starter</members>
+        <members>Einstein__c.TeamA</members>
+        <members>Einstein__c.Team_B</members>
         <name>RecordType</name>
     </types>
     <types>
         <members>Account-Account Layout</members>
         <members>Account-Enterprise PageLayout</members>
         <members>Account-Starter</members>
+        <members>Einstein__c-Einstein_TeamA</members>
+        <members>Einstein__c-Einstein_TeamB</members>
         <name>Layout</name>
     </types>
     <types>
@@ -25,6 +29,7 @@
     </types>
     <types>
         <members>Account.Payment__c</members>
+        <members>Einstein__c.Fruits__c</members>
         <name>CustomField</name>
     </types>
     <types>

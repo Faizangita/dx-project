@@ -2,6 +2,7 @@
     <version>59.0</version>
     <types>
         <members>Business__c</members>
+        <members>Einstein__c</members>
         <name>CustomObject</name>
     </types>
     <types>

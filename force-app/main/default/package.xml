@@ -3,6 +3,8 @@
     <types>
         <members>SubractionTest</members>
         <members>Subtraction</members>
+        <members>TaskUtil</members>
+        <members>TaskUtilTest</members>
         <name>ApexClass</name>
     </types>
 </Package>

@@ -6,6 +6,7 @@
         <name>RecordType</name>
     </types>
     <types>
+        <members>Account-Account Layout</members>
         <members>Account-Enterprise PageLayout</members>
         <members>Account-Starter</members>
         <name>Layout</name>

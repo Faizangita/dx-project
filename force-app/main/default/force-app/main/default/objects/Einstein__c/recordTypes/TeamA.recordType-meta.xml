@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TeamA</fullName>
+    <active>true</active>
+    <label>TeamA</label>
+    <picklistValues>
+        <picklist>Fruits__c</picklist>
+        <values>
+            <fullName>Apple</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Banana</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Kiwi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Orange</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pineapple</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

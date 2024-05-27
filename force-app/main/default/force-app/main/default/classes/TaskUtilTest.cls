@@ -8,6 +8,7 @@ private class TaskUtilTest {
   @isTest
   static void testTaskHighPriority() {
       //This is my first line comment in apex test class
+      //This is my second line comment in apex test class
     String pri = TaskUtil.getTaskPriority('CA');
     System.assertEquals('High', pri);
   }

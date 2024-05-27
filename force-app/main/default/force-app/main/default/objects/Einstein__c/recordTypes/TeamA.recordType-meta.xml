@@ -14,15 +14,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Kiwi</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Orange</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Pineapple</fullName>
             <default>false</default>
         </values>
     </picklistValues>

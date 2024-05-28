@@ -21,11 +21,6 @@
                 <label>Orange</label>
             </value>
             <value>
-                <fullName>Banana</fullName>
-                <default>false</default>
-                <label>Banana</label>
-            </value>
-            <value>
                 <fullName>Kiwi</fullName>
                 <default>false</default>
                 <label>Kiwi</label>
@@ -34,6 +29,12 @@
                 <fullName>Pineapple</fullName>
                 <default>false</default>
                 <label>Pineapple</label>
+            </value>
+            <value>
+                <fullName>Banana</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Banana</label>
             </value>
         </valueSetDefinition>
     </valueSet>

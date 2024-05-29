@@ -4,21 +4,17 @@
     <active>true</active>
     <label>TeamA</label>
     <picklistValues>
-        <picklist>Fruits__c</picklist>
+        <picklist>Vegetables__c</picklist>
         <values>
-            <fullName>Apple</fullName>
+            <fullName>Cabbage</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Blueberry</fullName>
+            <fullName>LadyFinger</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Grapes</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Mango</fullName>
+            <fullName>Onion</fullName>
             <default>false</default>
         </values>
     </picklistValues>

@@ -9,7 +9,7 @@
     <standardValue>
         <fullName>Sprint</fullName>
         <default>false</default>
-        <label>Sprint</label>
+        <label>Time</label>
     </standardValue>
     <standardValue>
         <fullName>Warm</fullName>

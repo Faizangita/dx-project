@@ -8,6 +8,7 @@
     <types>
         <members>Account.Enterprise</members>
         <members>Account.Starter</members>
+        <members>Account.Team_A</members>
         <members>Einstein__c.TeamA</members>
         <members>Einstein__c.Team_B</members>
         <name>RecordType</name>
@@ -29,8 +30,13 @@
     </types>
     <types>
         <members>Account.Payment__c</members>
+        <members>Account.Rating</members>
         <members>Einstein__c.Fruits__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>AccountRating</members>
+        <name>StandardValueSet</name>
     </types>
     <types>
         <members>Admin</members>

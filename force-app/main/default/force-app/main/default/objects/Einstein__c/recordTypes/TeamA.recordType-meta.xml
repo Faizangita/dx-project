@@ -10,11 +10,15 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Banana</fullName>
+            <fullName>Blueberry</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Orange</fullName>
+            <fullName>Grapes</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mango</fullName>
             <default>false</default>
         </values>
     </picklistValues>

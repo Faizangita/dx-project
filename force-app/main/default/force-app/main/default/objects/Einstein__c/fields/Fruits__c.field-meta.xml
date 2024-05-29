@@ -31,6 +31,21 @@
                 <label>Pineapple</label>
             </value>
             <value>
+                <fullName>Grapes</fullName>
+                <default>false</default>
+                <label>Grapes</label>
+            </value>
+            <value>
+                <fullName>Mango</fullName>
+                <default>false</default>
+                <label>Mango</label>
+            </value>
+            <value>
+                <fullName>Blueberry</fullName>
+                <default>false</default>
+                <label>Blueberry</label>
+            </value>
+            <value>
                 <fullName>Banana</fullName>
                 <default>false</default>
                 <isActive>false</isActive>
